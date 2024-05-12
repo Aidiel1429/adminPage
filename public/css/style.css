@@ -1,0 +1,12 @@
+.container {
+    background-color: #a9a9a9;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+
+.div1 {
+    color: white;
+    padding: 6px;
+}
+
